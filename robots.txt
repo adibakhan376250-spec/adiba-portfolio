@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adibakhan376250-spec.github.io/adiba-portfolio/sitemap.xml
