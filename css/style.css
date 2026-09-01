@@ -1053,7 +1053,7 @@ button {
 @media (max-width: 1000px) {
 
     .navbar {
-
+background-color: white;
         height: 75px;
     }
 
@@ -1238,7 +1238,7 @@ button {
 @media (max-width: 768px) {
 
     .navbar {
-
+background-color: white;
         height: 72px;
     }
 
